@@ -1,19 +1,22 @@
 ### Hi there 👋
 
+I am Thomas, living in the French Alps 🏔 and currently retraining in Web Development after 10 years of working as a Mechanical Engineer.
+
 <!--
 **TRegourd/Tregourd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently working on bulding my portfolio as a Web Developper
+- 🔭 I’m currently working on building my portfolio as a Web Developer
 - 🌱 I’m currently learning the MERN stack with Le Bocal Academy / Kodyneo 
-- 🚨 I’m open to job opportunities as employee or freelance...
+- 🚨 I’m open to job opportunities as employee or freelance
 - ⚡ Fun fact: You will find me on a Mountain Bike 🚲 or Skis 🎿 when I am not coding. 
 <!-- - 🤔 I’m looking for help with ...-->
 <!-- - 💬 Ask me about ... -->
 <!--  - 😄 Pronouns: ... -->
-
+<br/>
 ## Connect with me 🔗
 
-[<img  align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:11px;" />](https://www.linkedin.com/in/thomasregourd/)          
+[<img  align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:11px;" />](https://www.linkedin.com/in/thomasregourd/)  
+[<img  align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:11px;" />](https://twitter.com/matos2802)
 <br/>
 ## Languages and tools 🛠
 
