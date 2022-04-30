@@ -12,7 +12,7 @@ I am Thomas, living in the French Alps 🏔 and currently retraining in Web Deve
 </div>
 
 <div align="center">
-<a href="https://github.com/dansf?tab=repositories ">
+<a href="https://github.com/TRegourd?tab=repositories ">
 <img height="200rem" width="400rem" src="https://github-readme-stats.vercel.app/api?username=TRegourd&show_icons=true&theme=tokyonight">
 <img height="200rem" width="300rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRegourd&layout=compact&theme=tokyonight">
 </a>
