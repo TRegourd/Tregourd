@@ -9,17 +9,13 @@ I am Thomas, living in the French Alps 🏔 and currently retraining in Web Deve
 - 🌱 I’m currently learning the MERN stack with Le Bocal Academy / Kodyneo 
 - 🚨 I’m open to job opportunities as employee or freelance
 - ⚡ Fun fact: You will find me on a Mountain Bike 🚲 or Skis 🎿 when I am not coding. 
-<!-- - 🤔 I’m looking for help with ...-->
-<!-- - 💬 Ask me about ... -->
-<!--  - 😄 Pronouns: ... -->
-
 <br/>
 
 ## Connect with me 🔗
 
-[<img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/thomasregourd/)  
-[<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:10px;" />](https://twitter.com/matos2802)
+[<img align="left" justify="center" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/thomasregourd/)  
 
+[<img align="left" justify="center" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:10px;" />](https://twitter.com/matos2802)
 <br/>
 
 ## Languages and tools 🛠
