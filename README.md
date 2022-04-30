@@ -13,12 +13,14 @@ I am Thomas, living in the French Alps 🏔 and currently retraining in Web Deve
 <!-- - 💬 Ask me about ... -->
 <!--  - 😄 Pronouns: ... -->
 
+<br/>
 
 ## Connect with me 🔗
 
 [<img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/thomasregourd/)  
 [<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:10px;" />](https://twitter.com/matos2802)
 
+<br/>
 
 ## Languages and tools 🛠
 
