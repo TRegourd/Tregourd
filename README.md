@@ -1,12 +1,11 @@
 <div><h2 align="center">Hi there 👋</h2>
 
-I am Thomas, living in the French Alps 🏔 and currently retraining in Web Development 👨‍💻 after 10 years working as Mechanical Engineer ⚙️
+I am Thomas, living in the French Alps 🏔 retrained in Web Development 👨‍💻 after 10 years working as Mechanical Engineer ⚙️
 
 <!--
 **TRegourd/Tregourd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🌱 I’m currently learning the MERN stack with Le Bocal Academy / Kodyneo 
-- 🔭 I’m currently building my portfolio as a Web Developer
+- 🌱 I’m a JS FullStack Developper  
 - 🚨 I’m open to job opportunities as employee or freelance
 - ⚡ Fun fact: You will find me on a Mountain Bike 🚲 or Skis 🎿 when I am not coding. 
 </div>
