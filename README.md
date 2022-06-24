@@ -48,6 +48,10 @@ I am Thomas, living in the French Alps 🏔 retrained in Web Development 👨‍
 <img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img alt="MongoDb" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:10px;" />
 <img  alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img alt="gatsby" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" style="padding-right:10px;"/>
+<img alt="graphql" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;"/>
+          
+          
 </div>
 
 
