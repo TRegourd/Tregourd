@@ -6,7 +6,7 @@ I am Thomas, living in the French Alps 🏔 retrained in Web Development 👨‍
 **TRegourd/Tregourd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🌱 I’m a FullStack JS Developper  
-- 🚨 I’m open to job opportunities as employee or freelance
+- 🚨 I’m open to job opportunities as employee or freelancer
 - ⚡ Fun fact: You will find me on a Mountain Bike 🚲 or Skis 🎿 when I am not coding. 
 </div>
 
