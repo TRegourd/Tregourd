@@ -3,7 +3,7 @@
 I am Thomas, living in the French Alps 🏔 retrained in Web Development 👨‍💻 after 10 years working as Mechanical Engineer ⚙️
 
 - 🌱 I’m a FullStack JS Developper  
-- 🚨 I’m open to job opportunities as employee or freelancer
+- 🚨 I’m open to job opportunities as employee or freelancer (see Ridge Coding link below 👇) 
 - ⚡ Fun fact: You will find me on a Mountain Bike 🚲 or Skis 🎿 when I am not coding. 
 </div>
 
