@@ -3,6 +3,7 @@
 I am Thomas, living in the French Alps 🏔 retrained in Web Development 👨‍💻 after 10 years working as Mechanical Engineer ⚙️
 
 - 🌱 I’m a FullStack JS Developper  
+- 🔗 Currently learning solidity for web3.0 applications          
 - 🚨 I’m open to job opportunities as employee or freelancer (see Ridge Coding link below 👇) 
 - ⚡ Fun fact: You will find me on a Mountain Bike 🚲 or Skis 🎿 when I am not coding. 
 </div>
@@ -50,7 +51,8 @@ I am Thomas, living in the French Alps 🏔 retrained in Web Development 👨‍
 <img  alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img alt="gatsby" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" style="padding-right:10px;"/>
 <img alt="graphql" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;"/>
-          
+<img alt="solidity" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" style="padding-right:10px;"/>
+                         
           
 </div>
 
